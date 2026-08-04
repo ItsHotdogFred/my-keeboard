@@ -20,3 +20,12 @@ Here is my PCB so far:
 
 <img width="1509" height="849" alt="image" src="https://github.com/user-attachments/assets/9b0b4420-db3d-484c-8f11-32b24b7ffef9" />
 Next is the copper layout stuff which looks like it's going to be fun (not)
+
+HOURS 5 - 7:
+
+I did the copper wiring for both the front and back which was very confusing and tedious. I also added the models for the switches and keycaps which need some work
+
+<img width="1071" height="604" alt="image" src="https://github.com/user-attachments/assets/73321967-f0bc-44ca-a489-76af68a9db74" />
+
+
+<img width="1307" height="630" alt="image" src="https://github.com/user-attachments/assets/e7b43e96-69f0-4db4-98ae-bad920471b34" />
