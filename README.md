@@ -29,3 +29,13 @@ I did the copper wiring for both the front and back which was very confusing and
 
 
 <img width="1307" height="630" alt="image" src="https://github.com/user-attachments/assets/e7b43e96-69f0-4db4-98ae-bad920471b34" />
+
+HOURS 8 - 13
+
+I did ALOT of work in this time. The keyboard has been completely reworked to be more to my taste and workflow. Though one of the reasons why it took a bit longer to post this is because midway through doing all the major changes I realized that the keycaps that I were using weren't actually correct. For example the 1.5U keycap was closer to being 1.25U. Thankfully I found a problem that allowed me to generate different sized key caps which are accurate. I also added LED lights which hopefully are right and will work with the keycaps I have in mind. I also now need to redo the copper wiring so that will take an ungodly amount of time.
+
+<img width="1725" height="745" alt="image" src="https://github.com/user-attachments/assets/5c510621-22ca-4850-8c0c-887602e99e53" />
+
+<img width="1996" height="763" alt="image" src="https://github.com/user-attachments/assets/68581f8c-343f-430a-920e-3b3f53606bfd" />
+
+Oh yeah I also made it smaller by quite a bit
