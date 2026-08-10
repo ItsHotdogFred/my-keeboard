@@ -39,3 +39,9 @@ I did ALOT of work in this time. The keyboard has been completely reworked to be
 <img width="1996" height="763" alt="image" src="https://github.com/user-attachments/assets/68581f8c-343f-430a-920e-3b3f53606bfd" />
 
 Oh yeah I also made it smaller by quite a bit
+
+HOURS 14 - 16
+
+FINALLY. ZERO DRC VIOLATIONS!!! (Apart from the hidden ones which are on purpose) The routing is finished and EVERYTHING is connected. I learnt ALOT during these hours and I am so happy to be FINALLY done with the PCB. Now because I start designing a case I'll see if I am able to simulate some firmware or something like that just to see if the PCB is ready but I am 95% sure it is.
+<img width="1286" height="509" alt="image" src="https://github.com/user-attachments/assets/5c25d236-640c-4c5a-897c-3de3c00a05a1" />
+Not really much to show off besides the routing
