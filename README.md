@@ -45,3 +45,8 @@ HOURS 14 - 16
 FINALLY. ZERO DRC VIOLATIONS!!! (Apart from the hidden ones which are on purpose) The routing is finished and EVERYTHING is connected. I learnt ALOT during these hours and I am so happy to be FINALLY done with the PCB. Now because I start designing a case I'll see if I am able to simulate some firmware or something like that just to see if the PCB is ready but I am 95% sure it is.
 <img width="1286" height="509" alt="image" src="https://github.com/user-attachments/assets/5c25d236-640c-4c5a-897c-3de3c00a05a1" />
 Not really much to show off besides the routing
+
+HOURS 17 - 18
+
+I have created the case for the keyboard. It's a zero screw design and will be glued instead as I feel like that will be the best option for me. I am happy that I am now basically finished with the project and ready to ship it through I will double check everything just in case I have missed something.
+<img width="2106" height="828" alt="image" src="https://github.com/user-attachments/assets/500900c7-b635-4fe3-8171-7ecbc640301c" />
