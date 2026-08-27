@@ -1,5 +1,7 @@
 This is my custom keyboard for hackclub.
 
+What have I built: I have built a keyboard which is fit for my purpose. It follows the TKL layout as it's the layout I am most familiar with and the layout I use everyday. I also added RGB for each key which is placed below the switch instead of on the top like alot of keyboards you may buy locally, this is because the keycaps I have in mind have the letters on the side of the keys not on the top. Then there is the 2 rotary encoders I added on the top right. 1 will be used for changing the volume and when pressed down they will mute the sound, the second rotry encoder will be used for my microphone. The reason is that I use many voice based apps and each change my mic volume alot and it is annoying having to manually go into seconds to alter the volume, pressing down on the rotary encoder will mute my mic as I prefer doing that than using push to talk which I find very annoying to use (mostly because I forget to press it). I also built this keyboard as I have wanted to make a custom keyboard for a while now and doing this project ment I could control what is on my keyboard and what is not. It's also allowing to choose the exact switches and keycaps that I use. I have learnt lots for this project. Before starting this project I had no idea what a SCH file is and how to make a PCB. Because of this project I now know how. After this I intend to check out the other hackclub projects which involve making custom PCBs so I can master the craft.
+
 HOUR 1:
 
 <img width="1677" height="985" alt="image" src="https://github.com/user-attachments/assets/fc4de332-6419-4740-a1f4-9b7054ab08a0" />
@@ -50,3 +52,10 @@ HOURS 17 - 18
 
 I have created the case for the keyboard. It's a zero screw design and will be glued instead as I feel like that will be the best option for me. I am happy that I am now basically finished with the project and ready to ship it through I will double check everything just in case I have missed something.
 <img width="2106" height="828" alt="image" src="https://github.com/user-attachments/assets/500900c7-b635-4fe3-8171-7ecbc640301c" />
+
+HOURS 19
+
+I have 100% finished this project!!! I fixed the case as some of the positing was wrong and also added a wall to my keyboard which should hide all the dirt It will have after I make the keyboard. I also redid the routing as I felt like auto routing was cheating so I redid it myself which ended up being sooo much better. The via count went down alot since I used a zone fill for the 3v3 which reduced the amount of vias needed to be used, although the routing is still garbage so I wouldn't call it "production ready" BUT, it works. I have had lots of fun working on this project and I will 100% look at the other PCB related things hackclub has to offer. Thank you so much for this opportunity!!!
+
+<img width="1365" height="511" alt="image" src="https://github.com/user-attachments/assets/880f2013-db92-4ef1-9666-04e26fbbb9b9" />
+
