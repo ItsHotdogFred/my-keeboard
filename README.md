@@ -53,9 +53,17 @@ HOURS 17 - 18
 I have created the case for the keyboard. It's a zero screw design and will be glued instead as I feel like that will be the best option for me. I am happy that I am now basically finished with the project and ready to ship it through I will double check everything just in case I have missed something.
 <img width="2106" height="828" alt="image" src="https://github.com/user-attachments/assets/500900c7-b635-4fe3-8171-7ecbc640301c" />
 
-HOURS 19
+HOURS 19 (Spoiler this wasn't the final hour)
 
 I have 100% finished this project!!! I fixed the case as some of the positing was wrong and also added a wall to my keyboard which should hide all the dirt It will have after I make the keyboard. I also redid the routing as I felt like auto routing was cheating so I redid it myself which ended up being sooo much better. The via count went down alot since I used a zone fill for the 3v3 which reduced the amount of vias needed to be used, although the routing is still garbage so I wouldn't call it "production ready" BUT, it works. I have had lots of fun working on this project and I will 100% look at the other PCB related things hackclub has to offer. Thank you so much for this opportunity!!!
 
 <img width="1365" height="511" alt="image" src="https://github.com/user-attachments/assets/880f2013-db92-4ef1-9666-04e26fbbb9b9" />
+
+HOURS 20 - 22
+
+So Hour 19 wasn't the last hour of this project. I forgot to do the firmware but while I was doing that I realised that QMK doesn't have the best support or any actually for the GP expanders. This ment that I had to shrink the amount of pins I can use (30 - 26). I was able to easily get to 28 by putting the Rotary encoder's push on the key matrix instead of having it's own pin after that I removed COL15 and 16 and put the keys on COLS which had room for more keys. This allowed me to continue using the pi pico. After that I could start on the firmware. I labeled each key in the kicad pcb which made it so much easier what key is for what and made it so guessing wasn't necessary. Then I added the rotary encoders which was pretty simple as QMK natively supports it. Then it was the RGB, now I could of done an rgb matrix but I realized that for my usecase. I would only be using a solid colour like I am right now with my current keyboard as I find moving gradients or different colours too distracting. Hopefully I am finished as everything seems to be done and I don't think I have missed anything. I have uploaded the code for the firmware + a compiled version aswell. Again thank you hackclub for this opportunity.
+
+There isn't really much to show off as It was just following docs for making the firmware and rewiring pins so here is an accurate representation of what I looked like when I realized I had to do firmware:
+<img width="189" height="148" alt="image" src="https://github.com/user-attachments/assets/379eb34d-a929-4d5d-902b-1c0e4b13e3f6" />
+
 
