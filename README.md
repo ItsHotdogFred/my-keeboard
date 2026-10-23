@@ -1,7 +1,7 @@
 My Keeboard
 
 This my custom TKL inspired keyboard which was originally made for the KEEB event at Hackclub but was transferred to fabricate. This is a keyboard design specificly for my use cases. Such as 2 rotary encoders for sound and microphone volume which allows for quick muting of the mic. The width matches the arm rest of my current keyboard and also rgb because rgb is cool. The main reasons for creating this was to learn how to make PCBs and also create a keyboard which fitted my use case. Onshape link: [Onshape link](https://cad.onshape.com/documents/dc021f4e63e05666b06981c7/w/252c7c3674bab7a1450352c9/e/ff219613d7d787ca7c580a22?renderMode=0&uiState=6ad99fce9e584e240b6f9927)
-<img width="1365" height="511" alt="image" src="https://github.com/user-attachments/assets/880f2013-db92-4ef1-9666-04e26fbbb9b9" />
+<img width="1599" height="571" alt="Screenshot_20261024_081552" src="https://github.com/user-attachments/assets/3dacfd41-a5f8-4f8c-9d6e-93774c77675e" />
 
 <img width="1786" height="1237" alt="image" src="https://github.com/user-attachments/assets/49197de6-36e7-4137-b191-db4453bb13bc" />
 
