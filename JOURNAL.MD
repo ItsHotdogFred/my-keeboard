@@ -97,9 +97,9 @@ After that I could start on the firmware. I labelled each key in the KiCad PCB w
 
 Hopefully I am finished as everything seems to be done and I don't think I have missed anything. I have uploaded the code for the firmware + a compiled version as well. Again thank you Hack Club for this opportunity.
 
-There isn't really much to show off as it was just following docs for making the firmware and rewiring pins, so here is an accurate representation of what I looked like when I realised I had to do firmware:
+There isn't really much to show off as it was just following docs for making the firmware and rewiring pins.
 
-<img width="189" height="148" alt="image" src="https://github.com/user-attachments/assets/379eb34d-a929-4d5d-902b-1c0e4b13e3f6" />
+<img src="https://i.imgur.com/Dddb3v5.png" width="600" alt="image">
 
 **Total time spent: 3h**
 
