@@ -23,6 +23,7 @@ The case was designed in [Onshape](https://cad.onshape.com/documents/dc021f4e63e
 
 <img width="2106" height="828" alt="image" src="https://github.com/user-attachments/assets/f5dd42a3-f944-4a10-b8b6-778277de7dcd" />
 
+## BOM
 
 | Item | Description | Qty | Unit Price (NZ$) | Line Total (NZ$) | Link |
 |---|---|---|---|---|---|
