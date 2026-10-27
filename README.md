@@ -19,6 +19,5 @@ This my custom TKL inspired keyboard which was originally made for the KEEB even
 | PCB mounted screw-in stabilizers | Original Cherry PCB Stabilizers Satellite Axis 7u 6.25u etc. | 1 | 19.79 | 19.79 | [Link](https://www.aliexpress.com/item/4001143514438.html) |
 | RGB backlit keycaps | New Gradient Gray Double Shot OEM Profile 135 Key set | 1 | 22.09 | 22.09 | [Link](https://www.aliexpress.com/item/1005012423299905.html) |
 | Outemu mechanical switches | Dust-Proof Brown 90PCS 3Pin (select Brown + 90pcs) | 1 | 31.19 | 31.19 | [Link](https://www.aliexpress.com/item/1005009249474760.html) |
-| 3D Printer filament | Black filament for the case | 1 | 24.90 | 24.90 | [Link](https://www.pbtech.co.nz/product/INKCRL0039/Creality-CR-PETG-Filament---Black-1kg-Roll---175mm) |
 | PCB | PCB for the keyboard | 1 | 47.45 | 47.45 | NO LINK
-| **Total** | | | | **194.67** | |
+| **Total** | | | | **169.77** | |
