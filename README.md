@@ -16,7 +16,7 @@ Originally built for Hack Club's **KEEB** event, the project was later moved ove
 2. **To fit my use case**: I could really use 2 rotary encoders instead of just one.
 ## CAD
 
-The case was designed in [Onshape](https://cad.onshape.com/documents/dc021f4e63e05666b06981c7/w/252c7c3674bab7a1450352c9/e/ff219613d7d787ca7c580a22?renderMode=0&uiState=6ad99fce9e584e240b6f9927)
+The case was designed in [Onshape](https://cad.onshape.com/documents/9cc6d087942bd9a75f4ed666/w/a5c6ec7e2ee84bae6976a53f/e/82ebf20b905067d4074dacd5?renderMode=0&uiState=6ae6b1350ce1492784b3f556)
 <img width="1599" height="571" alt="Screenshot_20261024_081552" src="https://github.com/user-attachments/assets/3dacfd41-a5f8-4f8c-9d6e-93774c77675e" />
 
 <img width="1786" height="1237" alt="image" src="https://github.com/user-attachments/assets/49197de6-36e7-4137-b191-db4453bb13bc" />
